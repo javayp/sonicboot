@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sonbic.iml" filepath="$PROJECT_DIR$/sonbic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sonicmodel/sonicmodel.iml" filepath="$PROJECT_DIR$/sonicmodel/sonicmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sonicweb/sonicweb.iml" filepath="$PROJECT_DIR$/sonicweb/sonicweb.iml" />
+    </modules>
+  </component>
+</project>
